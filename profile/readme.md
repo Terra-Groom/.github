@@ -1,6 +1,6 @@
 <div align="center">
     <br />
-    <img src='../assets/icon/logo.svg' width="260" height="260" alt="logo" />
+    <img src='./assets/icon/logo.svg' width="260" height="260" alt="logo" />
     <br />
     <h1>Terra Groom</h1>
 </div>
