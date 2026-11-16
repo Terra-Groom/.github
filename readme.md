@@ -7,8 +7,8 @@ Companies can design, manage, and optimize workflows around their specific needs
 
 ## Contacts
 
+- [Site](https://terra-groom.ru)
 - [Email](mailto:info@terra-groom.ru)
-- [Website](https://terra-groom.ru)
 
 ## Context
 

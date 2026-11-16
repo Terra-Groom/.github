@@ -11,4 +11,4 @@ The platform is currently in closed access while custom solutions are implemente
 
 ## Contacts
 
-Learn more at [terra-groom.ru](https://terra-groom.ru) or get in touch via [Email](mailto:info@terra-groom.ru).
+Learn more at [terra-groom.ru](https://terra-groom.ru) or get in touch via [email](mailto:info@terra-groom.ru).
