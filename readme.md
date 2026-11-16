@@ -3,8 +3,6 @@
 	<p>📖 Public company details and essential resources</p>
 </div>
 
----
-
 Companies can design, manage, and optimize workflows around their specific needs, structure, and operating model.
 
 ## Contacts

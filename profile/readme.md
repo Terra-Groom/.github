@@ -3,8 +3,6 @@
 	<h1>Terra Groom</h1>
 </div>
 
----
-
 A private business platform for managing and automating multi-level and complex company workflows.
 
 The platform is flexible and customizable: teams create and optimize their own workflows instead of working from a fixed template. It is built to adapt to the way each business operates.
