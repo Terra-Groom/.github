@@ -1,8 +1,16 @@
 <div align="center">
-    <img src='../assets/icons/logo.svg' width="260" height="260" alt="logo" />
-    <h1>Terra Groom</h1>
+	<img src="../assets/icons/docs.jpg" width="260" height="220" alt="Terra Groom" />
+	<h1>Terra Groom</h1>
 </div>
 
-Personal service for business, which is designed to solve multi-level and complex processes. We strive to help companies effectively manage their business processes and increase their productivity. The platform offers a flexible and customizable solution that allows services to create and optimize their own workflows based on their unique needs.
+---
 
-At the moment, our project is at the closed access stage, which means that we are working on implementing custom solutions and using our own algorithm. We strive to create a unique product that will meet the specific needs and requirements of each specific business.
+A private business platform for managing and automating multi-level and complex company workflows.
+
+The platform is flexible and customizable: teams create and optimize their own workflows instead of working from a fixed template. It is built to adapt to the way each business operates.
+
+The platform is currently in closed access while custom solutions are implemented and the product is developed around each business's requirements.
+
+## Contacts
+
+Learn more at [terra-groom.ru](https://terra-groom.ru) or get in touch via [Email](mailto:info@terra-groom.ru).
